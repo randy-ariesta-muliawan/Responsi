@@ -1,0 +1,5 @@
+# Program luas persegi panjang
+panjang = int(input("Panjang : "))
+lebar = int(input("Lebar : "))
+luas = panjang * lebar
+print(f"Luas : {luas}")
